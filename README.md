@@ -9,8 +9,8 @@ https://www.youtube.com/channel/UC5Ls1mq2uMwsu-LSRY_4TyA/featured
 
 ## Nossos repositórios:
 
-Sobre Padrão de Projeto GoF Abstract Factory
+Sobre Padrão de Projeto GoF Abstract Factory<br>
 <a href="https://github.com/canalcleyton/gofabstractfactory">Projeto GoF Abstract Factory</a>
 
-Sobre Porta Serial Virtual no Linux
+Sobre Porta Serial Virtual no Linux<br>
 <a href="https://github.com/canalcleyton/linuxserial">Porta Serial Virtual no Linu</a>
