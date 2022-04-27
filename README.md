@@ -1,4 +1,5 @@
 # Repositório Sobre Aprimoramento de Códigos de Aplicações
+<meta name="google-site-verification" content="QXu_ohj8f3HEypPq9gNv_io9nkmlHehIBYp10stt6f4" />
 
 ## Saudações!!
 
@@ -13,4 +14,4 @@ Sobre Padrão de Projeto GoF Abstract Factory<br />
 <a href="https://github.com/canalcleyton/gofabstractfactory">Projeto GoF Abstract Factory</a>
 
 Sobre Porta Serial Virtual no Linux<br />
-<a href="https://github.com/canalcleyton/linuxserial">Porta Serial Virtual no Linu</a>
+<a href="https://github.com/canalcleyton/linuxserial">Porta Serial Virtual no Linux</a>
